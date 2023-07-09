@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-07-08T13:58:55.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0 (Edition Yx GX)" version="21.6.1" etag="oJHvA1hytkx7oAVljVyj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-09T10:51:00.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0 (Edition Yx GX)" etag="XlM-3IQbeRKl6x6l5wYz" version="21.6.1" type="github">
   <diagram name="Страница 1" id="Zy8zyR5g0DJlZKWuda5o">
-    <mxGraphModel>
+    <mxGraphModel dx="663" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kk60Wm2jfBDUApZfJBUF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kk60Wm2jfBDUApZfJBUF-2" target="kk60Wm2jfBDUApZfJBUF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kk60Wm2jfBDUApZfJBUF-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kk60Wm2jfBDUApZfJBUF-3" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Активируется &lt;br style=&quot;font-size: 9px;&quot;&gt;каждый раз&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;spacing=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="340" y="105" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kk60Wm2jfBDUApZfJBUF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kk60Wm2jfBDUApZfJBUF-12" target="kk60Wm2jfBDUApZfJBUF-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kk60Wm2jfBDUApZfJBUF-12" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="135" width="100" height="6.25" as="geometry" />
+        </mxCell>
+        <mxCell id="kk60Wm2jfBDUApZfJBUF-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Ожидание оплаты&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="170" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
